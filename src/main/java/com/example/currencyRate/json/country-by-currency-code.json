@@ -1,0 +1,970 @@
+[
+    {
+        "en": "Afghanistan",
+        "currency": "AFN"
+    },
+    {
+        "en": "Albania",
+        "currency": "ALL"
+    },
+    {
+        "en": "Algeria",
+        "currency": "DZD"
+    },
+    {
+        "en": "American Samoa",
+        "currency": "USD"
+    },
+    {
+        "en": "Andorra",
+        "currency": "EUR"
+    },
+    {
+        "en": "Angola",
+        "currency": "AOA"
+    },
+    {
+        "en": "Anguilla",
+        "currency": "XCD"
+    },
+    {
+        "en": "Antarctica",
+        "currency": "XCD"
+    },
+    {
+        "en": "Antigua and Barbuda",
+        "currency": "XCD"
+    },
+    {
+        "en": "Argentina",
+        "currency": "ARS"
+    },
+    {
+        "en": "Armenia",
+        "currency": "AMD"
+    },
+    {
+        "en": "Aruba",
+        "currency": "AWG"
+    },
+    {
+        "en": "Australia",
+        "currency": "AUD"
+    },
+    {
+        "en": "Austria",
+        "currency": "EUR"
+    },
+    {
+        "en": "Azerbaijan",
+        "currency": "AZN"
+    },
+    {
+        "en": "Bahamas",
+        "currency": "BSD"
+    },
+    {
+        "en": "Bahrain",
+        "currency": "BHD"
+    },
+    {
+        "en": "Bangladesh",
+        "currency": "BDT"
+    },
+    {
+        "en": "Barbados",
+        "currency": "BBD"
+    },
+    {
+        "en": "Belarus",
+        "currency": "BYR"
+    },
+    {
+        "en": "Belgium",
+        "currency": "EUR"
+    },
+    {
+        "en": "Belize",
+        "currency": "BZD"
+    },
+    {
+        "en": "Benin",
+        "currency": "XOF"
+    },
+    {
+        "en": "Bermuda",
+        "currency": "BMD"
+    },
+    {
+        "en": "Bhutan",
+        "currency": "BTN"
+    },
+    {
+        "en": "Bolivia",
+        "currency": "BOB"
+    },
+    {
+        "en": "Bosnia and Herzegovina",
+        "currency": "BAM"
+    },
+    {
+        "en": "Botswana",
+        "currency": "BWP"
+    },
+    {
+        "en": "Bouvet Island",
+        "currency": "NOK"
+    },
+    {
+        "en": "Brazil",
+        "currency": "BRL"
+    },
+    {
+        "en": "British Indian Ocean Territory",
+        "currency": "USD"
+    },
+    {
+        "en": "Brunei",
+        "currency": "BND"
+    },
+    {
+        "en": "Bulgaria",
+        "currency": "BGN"
+    },
+    {
+        "en": "Burkina Faso",
+        "currency": "XOF"
+    },
+    {
+        "en": "Burundi",
+        "currency": "BIF"
+    },
+    {
+        "en": "Cambodia",
+        "currency": "KHR"
+    },
+    {
+        "en": "Cameroon",
+        "currency": "XAF"
+    },
+    {
+        "en": "Canada",
+        "currency": "CAD"
+    },
+    {
+        "en": "Cape Verde",
+        "currency": "CVE"
+    },
+    {
+        "en": "Cayman Islands",
+        "currency": "KYD"
+    },
+    {
+        "en": "Central African Republic",
+        "currency": "XAF"
+    },
+    {
+        "en": "Chad",
+        "currency": "XAF"
+    },
+    {
+        "en": "Chile",
+        "currency": "CLP"
+    },
+    {
+        "en": "China",
+        "currency": "CNY"
+    },
+    {
+        "en": "Christmas Island",
+        "currency": "AUD"
+    },
+    {
+        "en": "Cocos (Keeling) Islands",
+        "currency": "AUD"
+    },
+    {
+        "en": "Colombia",
+        "currency": "COP"
+    },
+    {
+        "en": "Comoros",
+        "currency": "KMF"
+    },
+    {
+        "en": "Congo",
+        "currency": "XAF"
+    },
+    {
+        "en": "Cook Islands",
+        "currency": "NZD"
+    },
+    {
+        "en": "Costa Rica",
+        "currency": "CRC"
+    },
+    {
+        "en": "Croatia",
+        "currency": "EUR"
+    },
+    {
+        "en": "Cuba",
+        "currency": "CUP"
+    },
+    {
+        "en": "Cyprus",
+        "currency": "EUR"
+    },
+    {
+        "en": "Czech Republic",
+        "currency": "CZK"
+    },
+    {
+        "en": "Denmark",
+        "currency": "DKK"
+    },
+    {
+        "en": "Djibouti",
+        "currency": "DJF"
+    },
+    {
+        "en": "Dominica",
+        "currency": "XCD"
+    },
+    {
+        "en": "Dominican Republic",
+        "currency": "DOP"
+    },
+    {
+        "en": "Timor-Leste",
+        "currency": "USD"
+    },
+    {
+        "en": "Ecuador",
+        "currency": "ECS"
+    },
+    {
+        "en": "Egypt",
+        "currency": "EGP"
+    },
+    {
+        "en": "El Salvador",
+        "currency": "SVC"
+    },
+    {
+        "en": "England",
+        "currency": "GBP"
+    },
+    {
+        "en": "Equatorial Guinea",
+        "currency": "XAF"
+    },
+    {
+        "en": "Eritrea",
+        "currency": "ERN"
+    },
+    {
+        "en": "Estonia",
+        "currency": "EUR"
+    },
+    {
+        "en": "Eswatini",
+        "currency": "SZL"
+    },
+    {
+        "en": "Ethiopia",
+        "currency": "ETB"
+    },
+    {
+        "en": "Falkland Islands",
+        "currency": "FKP"
+    },
+    {
+        "en": "Faroe Islands",
+        "currency": "DKK"
+    },
+    {
+        "en": "Fiji Islands",
+        "currency": "FJD"
+    },
+    {
+        "en": "Finland",
+        "currency": "EUR"
+    },
+    {
+        "en": "France",
+        "currency": "EUR"
+    },
+    {
+        "en": "French Guiana",
+        "currency": "EUR"
+    },
+    {
+        "en": "French Polynesia",
+        "currency": "XPF"
+    },
+    {
+        "en": "French Southern territories",
+        "currency": "EUR"
+    },
+    {
+        "en": "Gabon",
+        "currency": "XAF"
+    },
+    {
+        "en": "Gambia",
+        "currency": "GMD"
+    },
+    {
+        "en": "Georgia",
+        "currency": "GEL"
+    },
+    {
+        "en": "Germany",
+        "currency": "EUR"
+    },
+    {
+        "en": "Ghana",
+        "currency": "GHS"
+    },
+    {
+        "en": "Gibraltar",
+        "currency": "GIP"
+    },
+    {
+        "en": "Greece",
+        "currency": "EUR"
+    },
+    {
+        "en": "Greenland",
+        "currency": "DKK"
+    },
+    {
+        "en": "Grenada",
+        "currency": "XCD"
+    },
+    {
+        "en": "Guadeloupe",
+        "currency": "EUR"
+    },
+    {
+        "en": "Guam",
+        "currency": "USD"
+    },
+    {
+        "en": "Guatemala",
+        "currency": "QTQ"
+    },
+    {
+        "en": "Guinea",
+        "currency": "GNF"
+    },
+    {
+        "en": "Guinea-Bissau",
+        "currency": "CFA"
+    },
+    {
+        "en": "Guyana",
+        "currency": "GYD"
+    },
+    {
+        "en": "Haiti",
+        "currency": "HTG"
+    },
+    {
+        "en": "Heard Island and McDonald Islands",
+        "currency": "AUD"
+    },
+    {
+        "en": "Holy See (Vatican City State)",
+        "currency": "EUR"
+    },
+    {
+        "en": "Honduras",
+        "currency": "HNL"
+    },
+    {
+        "en": "Hong Kong",
+        "currency": "HKD"
+    },
+    {
+        "en": "Hungary",
+        "currency": "HUF"
+    },
+    {
+        "en": "Iceland",
+        "currency": "ISK"
+    },
+    {
+        "en": "India",
+        "currency": "INR"
+    },
+    {
+        "en": "Indonesia",
+        "currency": "IDR"
+    },
+    {
+        "en": "Iran",
+        "currency": "IRR"
+    },
+    {
+        "en": "Iraq",
+        "currency": "IQD"
+    },
+    {
+        "en": "Ireland",
+        "currency": "EUR"
+    },
+    {
+        "en": "Israel",
+        "currency": "ILS"
+    },
+    {
+        "en": "Italy",
+        "currency": "EUR"
+    },
+    {
+        "en": "Ivory Coast",
+        "currency": "XOF"
+    },
+    {
+        "en": "Jamaica",
+        "currency": "JMD"
+    },
+    {
+        "en": "Japan",
+        "currency": "JPY"
+    },
+    {
+        "en": "Jordan",
+        "currency": "JOD"
+    },
+    {
+        "en": "Kazakhstan",
+        "currency": "KZT"
+    },
+    {
+        "en": "Kenya",
+        "currency": "KES"
+    },
+    {
+        "en": "Kiribati",
+        "currency": "AUD"
+    },
+    {
+        "en": "Kuwait",
+        "currency": "KWD"
+    },
+    {
+        "en": "Kyrgyzstan",
+        "currency": "KGS"
+    },
+    {
+        "en": "Laos",
+        "currency": "LAK"
+    },
+    {
+        "en": "Latvia",
+        "currency": "EUR"
+    },
+    {
+        "en": "Lebanon",
+        "currency": "LBP"
+    },
+    {
+        "en": "Lesotho",
+        "currency": "LSL"
+    },
+    {
+        "en": "Liberia",
+        "currency": "LRD"
+    },
+    {
+        "en": "Libya",
+        "currency": "LYD"
+    },
+    {
+        "en": "Liechtenstein",
+        "currency": "CHF"
+    },
+    {
+        "en": "Lithuania",
+        "currency": "EUR"
+    },
+    {
+        "en": "Luxembourg",
+        "currency": "EUR"
+    },
+    {
+        "en": "Macau",
+        "currency": "MOP"
+    },
+    {
+        "en": "North Macedonia",
+        "currency": "MKD"
+    },
+    {
+        "en": "Madagascar",
+        "currency": "MGF"
+    },
+    {
+        "en": "Malawi",
+        "currency": "MWK"
+    },
+    {
+        "en": "Malaysia",
+        "currency": "MYR"
+    },
+    {
+        "en": "Maldives",
+        "currency": "MVR"
+    },
+    {
+        "en": "Mali",
+        "currency": "XOF"
+    },
+    {
+        "en": "Malta",
+        "currency": "EUR"
+    },
+    {
+        "en": "Marshall Islands",
+        "currency": "USD"
+    },
+    {
+        "en": "Martinique",
+        "currency": "EUR"
+    },
+    {
+        "en": "Mauritania",
+        "currency": "MRO"
+    },
+    {
+        "en": "Mauritius",
+        "currency": "MUR"
+    },
+    {
+        "en": "Mayotte",
+        "currency": "EUR"
+    },
+    {
+        "en": "Mexico",
+        "currency": "MXN"
+    },
+    {
+        "en": "Micronesia, Federated States of",
+        "currency": "USD"
+    },
+    {
+        "en": "Moldova",
+        "currency": "MDL"
+    },
+    {
+        "en": "Monaco",
+        "currency": "EUR"
+    },
+    {
+        "en": "Mongolia",
+        "currency": "MNT"
+    },
+    {
+        "en": "Montserrat",
+        "currency": "XCD"
+    },
+    {
+        "en": "Morocco",
+        "currency": "MAD"
+    },
+    {
+        "en": "Mozambique",
+        "currency": "MZN"
+    },
+    {
+        "en": "Myanmar",
+        "currency": "MMR"
+    },
+    {
+        "en": "Namibia",
+        "currency": "NAD"
+    },
+    {
+        "en": "Nauru",
+        "currency": "AUD"
+    },
+    {
+        "en": "Nepal",
+        "currency": "NPR"
+    },
+    {
+        "en": "Netherlands",
+        "currency": "EUR"
+    },
+    {
+        "en": "Netherlands Antilles",
+        "currency": "ANG"
+    },
+    {
+        "en": "New Caledonia",
+        "currency": "XPF"
+    },
+    {
+        "en": "New Zealand",
+        "currency": "NZD"
+    },
+    {
+        "en": "Nicaragua",
+        "currency": "NIO"
+    },
+    {
+        "en": "Niger",
+        "currency": "XOF"
+    },
+    {
+        "en": "Nigeria",
+        "currency": "NGN"
+    },
+    {
+        "en": "Niue",
+        "currency": "NZD"
+    },
+    {
+        "en": "Norfolk Island",
+        "currency": "AUD"
+    },
+    {
+        "en": "North Korea",
+        "currency": "KPW"
+    },
+    {
+        "en": "Northern Ireland",
+        "currency": "GBP"
+    },
+    {
+        "en": "Northern Mariana Islands",
+        "currency": "USD"
+    },
+    {
+        "en": "Norway",
+        "currency": "NOK"
+    },
+    {
+        "en": "Oman",
+        "currency": "OMR"
+    },
+    {
+        "en": "Pakistan",
+        "currency": "PKR"
+    },
+    {
+        "en": "Palau",
+        "currency": "USD"
+    },
+    {
+        "en": "Panama",
+        "currency": "PAB"
+    },
+    {
+        "en": "Papua New Guinea",
+        "currency": "PGK"
+    },
+    {
+        "en": "Paraguay",
+        "currency": "PYG"
+    },
+    {
+        "en": "Peru",
+        "currency": "PEN"
+    },
+    {
+        "en": "Philippines",
+        "currency": "PHP"
+    },
+    {
+        "en": "Pitcairn Islands",
+        "currency": "NZD"
+    },
+    {
+        "en": "Poland",
+        "currency": "PLN"
+    },
+    {
+        "en": "Portugal",
+        "currency": "EUR"
+    },
+    {
+        "en": "Puerto Rico",
+        "currency": "USD"
+    },
+    {
+        "en": "Qatar",
+        "currency": "QAR"
+    },
+    {
+        "en": "Reunion",
+        "currency": "EUR"
+    },
+    {
+        "en": "Romania",
+        "currency": "RON"
+    },
+    {
+        "en": "Russia",
+        "currency": "RUB"
+    },
+    {
+        "en": "Rwanda",
+        "currency": "RWF"
+    },
+    {
+        "en": "Saint Helena",
+        "currency": "SHP"
+    },
+    {
+        "en": "Saint Kitts and Nevis",
+        "currency": "XCD"
+    },
+    {
+        "en": "Saint Lucia",
+        "currency": "XCD"
+    },
+    {
+        "en": "Saint Pierre and Miquelon",
+        "currency": "EUR"
+    },
+    {
+        "en": "Saint Vincent and the Grenadines",
+        "currency": "XCD"
+    },
+    {
+        "en": "Samoa",
+        "currency": "WST"
+    },
+    {
+        "en": "San Marino",
+        "currency": "EUR"
+    },
+    {
+        "en": "Sao Tome and Principe",
+        "currency": "STD"
+    },
+    {
+        "en": "Saudi Arabia",
+        "currency": "SAR"
+    },
+    {
+        "en": "Scotland",
+        "currency": "GBP"
+    },
+    {
+        "en": "Senegal",
+        "currency": "XOF"
+    },
+    {
+        "en": "Serbia",
+        "currency": "RSD"
+    },
+    {
+        "en": "Seychelles",
+        "currency": "SCR"
+    },
+    {
+        "en": "Sierra Leone",
+        "currency": "SLL"
+    },
+    {
+        "en": "Singapore",
+        "currency": "SGD"
+    },
+    {
+        "en": "Slovakia",
+        "currency": "EUR"
+    },
+    {
+        "en": "Slovenia",
+        "currency": "EUR"
+    },
+    {
+        "en": "Solomon Islands",
+        "currency": "SBD"
+    },
+    {
+        "en": "Somalia",
+        "currency": "SOS"
+    },
+    {
+        "en": "South Africa",
+        "currency": "ZAR"
+    },
+    {
+        "en": "South Georgia and the South Sandwich Islands",
+        "currency": "GBP"
+    },
+    {
+        "en": "South Korea",
+        "currency": "KRW"
+    },
+    {
+        "en": "South Sudan",
+        "currency": "SSP"
+    },
+    {
+        "en": "Spain",
+        "currency": "EUR"
+    },
+    {
+        "en": "Sri Lanka",
+        "currency": "LKR"
+    },
+    {
+        "en": "Sudan",
+        "currency": "SDG"
+    },
+    {
+        "en": "Suriname",
+        "currency": "SRD"
+    },
+    {
+        "en": "Svalbard and Jan Mayen",
+        "currency": "NOK"
+    },
+    {
+        "en": "Sweden",
+        "currency": "SEK"
+    },
+    {
+        "en": "Switzerland",
+        "currency": "CHF"
+    },
+    {
+        "en": "Syria",
+        "currency": "SYP"
+    },
+    {
+        "en": "Tajikistan",
+        "currency": "TJS"
+    },
+    {
+        "en": "Tanzania",
+        "currency": "TZS"
+    },
+    {
+        "en": "Thailand",
+        "currency": "THB"
+    },
+    {
+        "en": "The Democratic Republic of Congo",
+        "currency": "CDF"
+    },
+    {
+        "en": "Togo",
+        "currency": "XOF"
+    },
+    {
+        "en": "Tokelau",
+        "currency": "NZD"
+    },
+    {
+        "en": "Tonga",
+        "currency": "TOP"
+    },
+    {
+        "en": "Trinidad and Tobago",
+        "currency": "TTD"
+    },
+    {
+        "en": "Tunisia",
+        "currency": "TND"
+    },
+    {
+        "en": "Turkey",
+        "currency": "TRY"
+    },
+    {
+        "en": "Turkmenistan",
+        "currency": "TMT"
+    },
+    {
+        "en": "Turks and Caicos Islands",
+        "currency": "USD"
+    },
+    {
+        "en": "Tuvalu",
+        "currency": "AUD"
+    },
+    {
+        "en": "Uganda",
+        "currency": "UGX"
+    },
+    {
+        "en": "Ukraine",
+        "currency": "UAH"
+    },
+    {
+        "en": "United Arab Emirates",
+        "currency": "AED"
+    },
+    {
+        "en": "United Kingdom",
+        "currency": "GBP"
+    },
+    {
+        "en": "United States of America",
+        "currency": "USD"
+    },
+    {
+        "en": "United States Minor Outlying Islands",
+        "currency": "USD"
+    },
+    {
+        "en": "Uruguay",
+        "currency": "UYU"
+    },
+    {
+        "en": "Uzbekistan",
+        "currency": "UZS"
+    },
+    {
+        "en": "Vanuatu",
+        "currency": "VUV"
+    },
+    {
+        "en": "Venezuela",
+        "currency": "VEF"
+    },
+    {
+        "en": "Vietnam",
+        "currency": "VND"
+    },
+    {
+        "en": "Virgin Islands, British",
+        "currency": "USD"
+    },
+    {
+        "en": "Virgin Islands, U.S.",
+        "currency": "USD"
+    },
+    {
+        "en": "Wales",
+        "currency": "GBP"
+    },
+    {
+        "en": "Wallis and Futuna",
+        "currency": "XPF"
+    },
+    {
+        "en": "Western Sahara",
+        "currency": "MAD"
+    },
+    {
+        "en": "Yemen",
+        "currency": "YER"
+    },
+    {
+        "en": "Zambia",
+        "currency": "ZMW"
+    },
+    {
+        "en": "Zimbabwe",
+        "currency": "ZWD"
+    }
+]

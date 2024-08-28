@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+  <html xmlns:th="http://www.thymeleaf.org">
+  <head>
+    <title>Currency Rate Exchange By Country</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <style>
+      .centerDiv {
+        text-align: center;
+        width: auto;
+        margin: 20px;
+      }
+    </style>
+  </head>
+  <div class="centerDiv">
+    <body>
+      <b style="font-size: 26px;">Currency Exchange By Country</b>
+      <div class="centerDiv">
+        <form id="countryForm">
+          <label for="country1">Country 1:</label>
+          <input type="text" list= "country1List" id="country1" name="country1" oninput="fetchCountryNameList('country1', 'country1List'); displayCurrencyInput()"> </input>
+          <datalist id="country1List"></datalist>
+
+          <label for="country2">Country 2:</label>
+          <input type="text" list= "country2List" id="country2" name="country2" oninput="fetchCountryNameList('country2', 'country2List'); displayCurrencyInput()"> </input>
+          <datalist id="country2List"></datalist>
+        </form>
+      </div>
+
+      <div class="centerDiv">
+        <form id="currencyForm" style="display:none;">
+          <label for="country1CurrencyAmount">Currency 1:</label>
+          <input type="number" id="country1CurrencyAmount" name="country1CurrencyAmount" oninput="setCurrencyAmountByRate('country1', 'country2', 'country1CurrencyAmount', 'country2CurrencyAmount')"> </input>
+
+          <label for="country2CurrencyAmount">Currency 2:</label>
+          <input type="number" id="country2CurrencyAmount" name="country2CurrencyAmount" oninput="setCurrencyAmountByRate('country2', 'country1', 'country2CurrencyAmount', 'country1CurrencyAmount')"> </input>
+        </form>
+      </div>
+
+      <script src="script.js"></script>
+    </body>
+  </div>
+</html>
